@@ -126,12 +126,11 @@ export class VRInterface {
     ctx.fillStyle = '#f9fafb';
     ctx.font = 'bold 20px Arial, sans-serif';
     ctx.textAlign = 'center';
-    ctx.textBaseline = 'top';
-    ctx.fillText('AETHERGRAPH CONSOLE', w / 2, 24);
+    ctx.fillText('SENTINAL3D CONSOLE', w / 2, 24);
 
     ctx.fillStyle = '#64748b';
     ctx.font = '600 11px Arial, sans-serif';
-    ctx.fillText('ENTERPRISE VR CONTROL HUB', w / 2, 54);
+    ctx.fillText('LAWFUL INTERCEPT VR UNIT', w / 2, 54);
 
     // Draw buttons
     this.panelButtons.forEach(btn => {
