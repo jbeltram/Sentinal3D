@@ -1,6 +1,6 @@
-# Sentinal3D // Lawful Intercept Link Chart Viewer
+# Sentinal3D // VR Link Chart Viewer
 
-Sentinal3D is an immersive, enterprise-grade 3D and Virtual Reality (VR) link-analysis charting web application tailored for lawful interception (LI), signal intelligence, and communications network tracing. Built with Three.js and Vite, it visualizes complex nodes (such as communication devices, servers, or target identities) and links (data packets, phone calls, signal channels) in an interactive, physics-driven 3D space.
+Sentinal3D is an immersive, enterprise-grade 3D and Virtual Reality (VR) link-analysis charting web application. Built with Three.js and Vite, it visualizes complex nodes (such as systems, data records, or network components) and links (connections, relations, or transactions) in an interactive, physics-driven 3D space.
 
 Designed with a clean, dark slate enterprise layout, Sentinal3D is fully optimized for both desktop browsers and immersive WebXR headsets (such as the Meta Quest 2).
 

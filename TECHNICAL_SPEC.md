@@ -1,6 +1,6 @@
 # Sentinal3D // Technical Specification
 
-This document details the software design, mathematical models, coordinate system translations, and interactive canvas mappings implemented in the Sentinal3D Lawful Intercept Link Chart Viewer.
+This document details the software design, mathematical models, coordinate system translations, and interactive canvas mappings implemented in the Sentinal3D 3D Link Chart Viewer.
 
 ---
 

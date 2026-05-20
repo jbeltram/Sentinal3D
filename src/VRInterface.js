@@ -130,7 +130,7 @@ export class VRInterface {
 
     ctx.fillStyle = '#64748b';
     ctx.font = '600 11px Arial, sans-serif';
-    ctx.fillText('LAWFUL INTERCEPT VR UNIT', w / 2, 54);
+    ctx.fillText('ENTERPRISE VR CONTROL HUB', w / 2, 54);
 
     // Draw buttons
     this.panelButtons.forEach(btn => {
